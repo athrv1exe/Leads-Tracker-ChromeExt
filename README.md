@@ -1,7 +1,5 @@
 # Leads Tracker Chrome Extension
 
-![Leads Tracker Logo](images/logo.png)
-
 Leads Tracker is a Chrome extension that helps you keep track of your leads conveniently and securely. It allows you to store lead information, and your data will persist even if you close the browser or the page.
 
 ## Features
